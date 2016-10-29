@@ -1,0 +1,36 @@
+{
+  "name": "homebridge-mqtt-power-consumption",
+  "version": "0.0.1",
+  "description": "Homebridge plugin to get power consumption via mqtt",
+  "note": "peerDependencies is hardcoded to peerDepdendencies in homebridge!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: configure and run homebridge to start\" && exit 1"
+  },
+  "engines": {
+    "node": ">4.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodfield/homebridge-mqtt-power-consumption.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "MQTT",
+    "Dimmer"
+  ],
+  "dependencies": {
+    "mqtt": "^1.6.3"
+  },
+  "author": {
+    "name": "David Uebelacker"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goodfield/homebridge-mqtt-power-consumption/issues"
+  },
+  "homepage": "https://github.com/goodfield/homebridge-mqtt-power-consumption",
+  "devDependencies": {}
+}
