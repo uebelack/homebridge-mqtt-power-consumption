@@ -17,8 +17,8 @@ Remember to configure the plugin in config.json in your home directory inside th
   "username": "<username>",
   "password": "<password>",
   "topics": {
-    "power": <topic to get the current power consumption>"
-    "totalPower": <topic to get the total power consumption>"
+    "power": "<topic to get the current power consumption>"
+    "totalPower": "<topic to get the total power consumption>"
   }
 }
 ```
