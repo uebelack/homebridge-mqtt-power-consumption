@@ -1,6 +1,6 @@
 {
   "name": "homebridge-mqtt-power-consumption",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Homebridge plugin to get power consumption via mqtt",
   "note": "peerDependencies is hardcoded to peerDepdendencies in homebridge!!!",
   "main": "index.js",
